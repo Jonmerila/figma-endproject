@@ -52,7 +52,7 @@ font-style: normal;
 ---
 
 ```CSS
-.inter-<uniquifier> {
+.inter {
 font-family: "Inter", sans-serif;
 font-optical-sizing: auto;
 font-weight: <weight>;
